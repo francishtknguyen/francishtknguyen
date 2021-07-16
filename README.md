@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/francishtknguyen/)-->
 <a href="https://www.linkedin.com/in/francishtknguyen/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:francishtknguyen@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail">][https://mail.google.com/mail/u/0/?fs=1&to=francishtknguyen@gmail.com&su=SUBJECT&body=BODY&tf=cm]
 &nbsp; &nbsp;
    
 
