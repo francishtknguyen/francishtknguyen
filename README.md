@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"/>[https://mail.google.com/mail/u/0/?fs=1&to=francishtknguyen@gmail.com&su=SUBJECT&body=BODY&tf=cm]
 &nbsp; &nbsp;-->
 
- [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/francishtknguyen/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-francishtknguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/francishtknguyen/) 
  [![Gmail Badge](https://img.shields.io/badge/-francishtknguyen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:francishtknguyen@gmail.com)
    
 
