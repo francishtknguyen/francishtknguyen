@@ -14,9 +14,9 @@ Here are some ideas to get you started:
    
 
 <!-- Skill Badges -->
-<div align='center'>
+
 ## Front End Skills
-</div>
+
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 
-<div align='center'>
+
 ## Back End Skills
-</div>
+
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
 ![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next.js)
 
-<div align='center'>
+
 ## Tools Skills
-</div>
+
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
