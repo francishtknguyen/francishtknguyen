@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything!
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love playing sports, read/watch anime, and gaming
-### 📫 Get In Touch
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/francishtknguyen/)-->
+## 📫 Get In Touch
+<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/francishtknguyen/)
 <a href="https://www.linkedin.com/in/francishtknguyen/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"/>[https://mail.google.com/mail/u/0/?fs=1&to=francishtknguyen@gmail.com&su=SUBJECT&body=BODY&tf=cm]
-&nbsp; &nbsp;
+&nbsp; &nbsp;-->
 
  [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/francishtknguyen/) 
  [![Gmail Badge](https://img.shields.io/badge/-francishtknguyen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:francishtknguyen@gmail.com)
@@ -62,7 +62,11 @@ Here are some ideas to get you started:
    <img style="margin: 1rem; verticle-align: top"  alt="Francis' GitHub stats"  src="https://github-readme-stats.vercel.app/api?username=francishtknguyen&show_icons=true&theme=radical" />
 </div>
 <div align='center'>
-  <img style="margin: 1rem; verticle-align: top"  alt="Francis' Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francishtknguyen&layout=compact&theme=radical" />
-  
+  <img style="margin: 1rem; verticle-align: top"  alt="Francis' Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francishtknguyen&layout=compact&theme=radical" /> 
 </div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/francishtknguyen/count.svg" />
+</p>
 
