@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
 
----
 
 !-- GitHub Stats -->
+
 <div style='display:flex'>
   <img style="margin: 1rem; verticle-align: top"  alt="Francis' Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francishtknguyen&layout=compact&theme=radical" />
    <img style="margin: 1rem; verticle-align: top"  alt="Francis' GitHub stats"  src="https://github-readme-stats.vercel.app/api?username=francishtknguyen&show_icons=true&theme=radical" />
 </div>
----
+
