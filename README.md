@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Skill Badges -->
 
-## Front End Skills
+## 🖥💻 Front End Skills
 
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 
 
-## Back End Skills
+## 🔙 Back End Skills
 
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Next js](https://img.shields.io/badge/Next%20js-2E3440?style=for-the-badge&logo=next.js)
 
 
-## Tools Skills
+## 🛠 Tools Skills
 
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
