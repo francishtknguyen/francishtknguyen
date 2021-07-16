@@ -1,17 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Francis Nguyen!🙋‍♂️
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Finding a new career oppurtunity and my personal projects!
 - 🌱 I’m currently learning ... Typescript!
-- 👯 I’m looking to collaborate on ... Fun, meaningful, impactful projects
+- 👯 I’m looking to collaborate on ... Fun, Meaningful, Impactful projects
 - 🤔 I’m looking for help with ... leveling up everywhere!
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... 
-
+- 📫 How to reach me: 
+   
 
 <!-- Skill Badges -->
 
@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 !-- GitHub Stats -->
 <div align="center">
   <img style="margin: 1rem; verticle-align: top"  alt="Francis' Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=francishtknguyen&layout=compact&theme=radical" />
+  ![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
