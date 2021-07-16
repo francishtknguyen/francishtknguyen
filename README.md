@@ -9,8 +9,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... leveling up everywhere!
 - 💬 Ask me about ... Anything!
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
-- 📫 How to reach me: 
+- ⚡ Fun fact: ... I love playing sports, read/watch anime, and gaming
+### 📫 Get In Touch
+<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/francishtknguyen/)-->
+<a href="https://www.linkedin.com/in/francishtknguyen/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:francishtknguyen@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
    
 
 <!-- Skill Badges -->
